@@ -1,0 +1,10 @@
+C:\Users\boldo\OneDrive\Documentos\EstudoCSharp\Aula5_ClassesObjetos\Exe3_NotasAlunos\bin\Debug\Exe3_NotasAlunos.exe.config
+C:\Users\boldo\OneDrive\Documentos\EstudoCSharp\Aula5_ClassesObjetos\Exe3_NotasAlunos\bin\Debug\Exe3_NotasAlunos.exe
+C:\Users\boldo\OneDrive\Documentos\EstudoCSharp\Aula5_ClassesObjetos\Exe3_NotasAlunos\bin\Debug\Exe3_NotasAlunos.pdb
+C:\Users\boldo\OneDrive\Documentos\EstudoCSharp\Aula5_ClassesObjetos\Exe3_NotasAlunos\obj\Debug\Exe3_NotasAlunos.csprojAssemblyReference.cache
+C:\Users\boldo\OneDrive\Documentos\EstudoCSharp\Aula5_ClassesObjetos\Exe3_NotasAlunos\obj\Debug\Exe3_NotasAlunos.frmNotasAlunos.resources
+C:\Users\boldo\OneDrive\Documentos\EstudoCSharp\Aula5_ClassesObjetos\Exe3_NotasAlunos\obj\Debug\Exe3_NotasAlunos.Properties.Resources.resources
+C:\Users\boldo\OneDrive\Documentos\EstudoCSharp\Aula5_ClassesObjetos\Exe3_NotasAlunos\obj\Debug\Exe3_NotasAlunos.csproj.GenerateResource.cache
+C:\Users\boldo\OneDrive\Documentos\EstudoCSharp\Aula5_ClassesObjetos\Exe3_NotasAlunos\obj\Debug\Exe3_NotasAlunos.csproj.CoreCompileInputs.cache
+C:\Users\boldo\OneDrive\Documentos\EstudoCSharp\Aula5_ClassesObjetos\Exe3_NotasAlunos\obj\Debug\Exe3_NotasAlunos.exe
+C:\Users\boldo\OneDrive\Documentos\EstudoCSharp\Aula5_ClassesObjetos\Exe3_NotasAlunos\obj\Debug\Exe3_NotasAlunos.pdb

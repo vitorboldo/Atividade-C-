@@ -1,0 +1,10 @@
+C:\Users\boldo\OneDrive\Documentos\EstudoCSharp\Aula5_ClassesObjetos\Exe2_ContaBancaria\bin\Debug\Exe2_ContaBancaria.exe.config
+C:\Users\boldo\OneDrive\Documentos\EstudoCSharp\Aula5_ClassesObjetos\Exe2_ContaBancaria\bin\Debug\Exe2_ContaBancaria.exe
+C:\Users\boldo\OneDrive\Documentos\EstudoCSharp\Aula5_ClassesObjetos\Exe2_ContaBancaria\bin\Debug\Exe2_ContaBancaria.pdb
+C:\Users\boldo\OneDrive\Documentos\EstudoCSharp\Aula5_ClassesObjetos\Exe2_ContaBancaria\obj\Debug\Exe2_ContaBancaria.csprojAssemblyReference.cache
+C:\Users\boldo\OneDrive\Documentos\EstudoCSharp\Aula5_ClassesObjetos\Exe2_ContaBancaria\obj\Debug\Exe2_ContaBancaria.frmClientes.resources
+C:\Users\boldo\OneDrive\Documentos\EstudoCSharp\Aula5_ClassesObjetos\Exe2_ContaBancaria\obj\Debug\Exe2_ContaBancaria.Properties.Resources.resources
+C:\Users\boldo\OneDrive\Documentos\EstudoCSharp\Aula5_ClassesObjetos\Exe2_ContaBancaria\obj\Debug\Exe2_ContaBancaria.csproj.GenerateResource.cache
+C:\Users\boldo\OneDrive\Documentos\EstudoCSharp\Aula5_ClassesObjetos\Exe2_ContaBancaria\obj\Debug\Exe2_ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\boldo\OneDrive\Documentos\EstudoCSharp\Aula5_ClassesObjetos\Exe2_ContaBancaria\obj\Debug\Exe2_ContaBancaria.exe
+C:\Users\boldo\OneDrive\Documentos\EstudoCSharp\Aula5_ClassesObjetos\Exe2_ContaBancaria\obj\Debug\Exe2_ContaBancaria.pdb
